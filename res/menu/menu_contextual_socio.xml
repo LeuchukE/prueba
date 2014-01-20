@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item
+android:id="@+id/ficha_socio"
+android:title="Ir a ficha de socio" android:enabled="true" android:visible="true">
+</item>
+<item
+android:id="@+id/enviar_correo"
+android:title="Enviar correo" android:enabled="true" android:visible="true"/>
+</menu>

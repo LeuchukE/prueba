@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nombre">Nombre</string>
+    <string name="codigo">Cedula</string>
+    <string name="app_name">Polideportivo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="FichaSocios">Ficha de socios</string>
+    <string name="ListaSocios">Lista de Socios</string>
+    <string name="Acerca">Acerca de</string>
+    <string name="title_activity_ficha_socios">FichaSocios</string>
+    <string name="Documento">Documento</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Sexo">Sexo</string>
+    <string name="EstadoCivil">Estado Civil</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Nacionalidad">Nacionalidad</string>
+    <string name="Domicilio">Domicilio</string>
+    <string name="Localidad">Localidad</string>
+    <string name="Celular">Telefono Celular</string>
+    <string name="Telefono">Telefono Fijo</string>
+    <string name="Email">E-mail</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Categoria">Categoria</string>
+    <string name="ActividadesPreferidas">Actividades Preferidas</string>
+    <string name="SeleccionarSocio">Seleccionar socio</string>
+    <string name="Salir">Salir</string>
+    <string name="title_activity_lista_socios">ListaSocios</string>
+    <string name="title_activity_email">Email</string>
+
+</resources>
